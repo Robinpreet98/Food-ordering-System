@@ -1,0 +1,22 @@
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\obj\Debug\finalProject.MainForm.resources
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\obj\Debug\finalProject.secondForm.resources
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\mandeepjajwan\source\repos\finalProject\finalProject\obj\Debug\finalProject.pdb
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe.config
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\bin\Debug\finalProject.exe
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\bin\Debug\finalProject.pdb
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\obj\Debug\finalProject.MainForm.resources
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\obj\Debug\finalProject.secondForm.resources
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\obj\Debug\finalProject.exe
+E:\semester 4\ms.net\finalProject\finalProject\finalProject\obj\Debug\finalProject.pdb
